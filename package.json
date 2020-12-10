@@ -1,0 +1,25 @@
+{
+  "name": "printful-api",
+  "version": "0.0.1",
+  "description": "An api interface for the merch store printful",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinmccalley/printful-api.git"
+  },
+  "keywords": [
+    "printful",
+    "printful-api",
+    "printful",
+    "api"
+  ],
+  "author": "Austin McCalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinmccalley/printful-api/issues"
+  },
+  "homepage": "https://github.com/austinmccalley/printful-api#readme"
+}
